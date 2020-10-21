@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.exe
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.deps.json
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.runtimeconfig.json
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.dll
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\bin\Debug\netcoreapp3.1\TwoStrings.pdb
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.dll
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.pdb
+C:\Sandbox\HackerRank\Dictionaries\TwoStrings\obj\Debug\netcoreapp3.1\TwoStrings.genruntimeconfig.cache

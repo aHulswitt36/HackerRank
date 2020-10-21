@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.exe
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.deps.json
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.runtimeconfig.json
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.dll
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\bin\Debug\netcoreapp3.1\FraudulentActivity.pdb
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.dll
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.pdb
+C:\Sandbox\HackerRank\Sorting\FraudulentActivity\obj\Debug\netcoreapp3.1\FraudulentActivity.genruntimeconfig.cache

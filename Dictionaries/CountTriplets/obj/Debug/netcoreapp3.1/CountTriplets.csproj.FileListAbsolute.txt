@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.exe
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.deps.json
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.runtimeconfig.json
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.dll
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\bin\Debug\netcoreapp3.1\CountTriplets.pdb
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.dll
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.pdb
+C:\Sandbox\HackerRank\Dictionaries\CountTriplets\obj\Debug\netcoreapp3.1\CountTriplets.genruntimeconfig.cache

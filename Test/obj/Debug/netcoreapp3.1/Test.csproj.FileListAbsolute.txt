@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Sandbox\HackerRank\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Sandbox\HackerRank\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

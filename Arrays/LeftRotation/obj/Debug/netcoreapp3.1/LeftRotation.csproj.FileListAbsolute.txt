@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.exe
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.deps.json
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.runtimeconfig.json
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.dll
+C:\Sandbox\HackerRank\Arrays\LeftRotation\bin\Debug\netcoreapp3.1\LeftRotation.pdb
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.dll
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.pdb
+C:\Sandbox\HackerRank\Arrays\LeftRotation\obj\Debug\netcoreapp3.1\LeftRotation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.exe
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.deps.json
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.runtimeconfig.json
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.dll
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\bin\Debug\netcoreapp3.1\RansomNote.pdb
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.dll
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.pdb
+C:\Sandbox\HackerRank\Dictionaries\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.genruntimeconfig.cache

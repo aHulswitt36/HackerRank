@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Sandbox\HackerRank\Sorting\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Sandbox\HackerRank\Sorting\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

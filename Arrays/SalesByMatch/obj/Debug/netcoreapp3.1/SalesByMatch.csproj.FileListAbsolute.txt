@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.exe
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.deps.json
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.runtimeconfig.json
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.dll
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.pdb
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.dll
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.pdb
+C:\Sandbox\HackerRank\Arrays\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.genruntimeconfig.cache

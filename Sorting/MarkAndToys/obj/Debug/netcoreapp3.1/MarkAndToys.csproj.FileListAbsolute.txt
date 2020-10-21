@@ -1,0 +1,13 @@
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.exe
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.deps.json
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.runtimeconfig.json
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.runtimeconfig.dev.json
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.dll
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\bin\Debug\netcoreapp3.1\MarkAndToys.pdb
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.csprojAssemblyReference.cache
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.AssemblyInfoInputs.cache
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.AssemblyInfo.cs
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.csproj.CoreCompileInputs.cache
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.dll
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.pdb
+C:\Sandbox\HackerRank\Sorting\MarkAndToys\obj\Debug\netcoreapp3.1\MarkAndToys.genruntimeconfig.cache
